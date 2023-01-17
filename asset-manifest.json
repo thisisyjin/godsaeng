@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/godsaeng/static/css/main.a055e653.css",
+    "main.js": "/godsaeng/static/js/main.75715960.js",
+    "index.html": "/godsaeng/index.html",
+    "main.a055e653.css.map": "/godsaeng/static/css/main.a055e653.css.map",
+    "main.75715960.js.map": "/godsaeng/static/js/main.75715960.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a055e653.css",
+    "static/js/main.75715960.js"
+  ]
+}
